@@ -116,13 +116,15 @@ Chainerエバンジェリストとしてコミュニティ活動やイベント�
 - 前橋 賢一(@kmaehashi) 担当:1章
   - Chainer/CuPyの開発やリリース管理、テスト環境の整備、ユーザサポートなどに携わっています。
   
-- Yasuki Ikeuchi(@ikeyasu) 担当:2章
-  - 株主会社ACCESSのCo-CTO。普段はIoT屋をする傍ら、Chainerで遊んでます。
-
-- 最上隆史(@mogamin) 担当:3章
-   - ウルシステムズ株式会社で「先端技術をビジネスに」をキーワードに研究開発やPoCをしています。画像処理、AR、深層学習、強化学習、ブロックチェーンがメイン。
+- 最上隆史(@mogamin) 担当:2章
      社内ではScrumMaster向けの活動やarxiv論文を読む活動も開催中。日々、Chainerを使ってkaggleやSIGNATEで技術を磨いています。
+
+- Yasuki Ikeuchi(@ikeyasu) 担当:3章
+  - 株主会社ACCESSのCo-CTO。普段はIoT屋をする傍ら、Chainerで遊んでます。
 
 - 舛岡英人(@hidetomasuoka) 担当:5章、あとがき
   - Chainer Meetup #0からChainerのイベントのほとんどを企画、運営してます！
   Deep Learningをやりたくても、なかなかアクションできていない人は是非お声がけください！
+
+- nanana(仮) 担当:表紙、キャラデザイン
+  - オリジナル中心で絵とか漫画とか描いてます。
