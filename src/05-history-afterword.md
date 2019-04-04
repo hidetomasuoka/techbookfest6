@@ -1,10 +1,10 @@
-# chugとは
+# Chugとは
 
-@<icon>{cheiko} 「せんせい！chugってなに」
+@<icon>{cheiko} 「せんせい！Chugってなに」
 
 　
 
-@<icon>{yousei} 「いい質問だ！chugは、**Ch**ainer **U**ser **G**roupからとってるよ」
+@<icon>{yousei} 「いい質問だ！Chugは、**Ch**ainer **U**ser **G**roupからとってるよ」
 
 　
 
@@ -32,15 +32,22 @@
 
 　
 
-## chugの活動
+## Chugの活動
 
-chugでは、2週に1度定例ＭＴＧを行い、イベントの方針やノベルティについてディスカッションをしています。
+Chugでは、2週に1度定例ＭＴＧを行い、イベントの方針やノベルティについてディスカッションをしています。
 対面での打ち合わせだけでなく、リモートでの打ち合わせもしています。
 
-また、chugのレポジトリでハンズオン資料やAwesome Chainerのアップデートをしています。
+また、Chugのレポジトリでハンズオン資料やAwesome Chainerのアップデートをしています。
 
 
-## chugのイベント
+
+![chug logo](src/images/chug_01.png)
+
+![chug ノベルディ](src/images/chug_02.png)
+
+
+
+## Chugのイベント
 
 第一回あたりは、開発陣＋1名で、運営を行っていました。
 テーマは、以下の通り
@@ -61,9 +68,9 @@ chugでは、2週に1度定例ＭＴＧを行い、イベントの方針やノ�
 - Chainer LT大会
 - Chainer ハンズオン in 大阪
 
-などなどたくさんのイベントをchugのメンバーみんなで行いました。
+などなどたくさんのイベントをChugのメンバーみんなで行いました。
 
-最近の回では、Cloudベンダーが一同に集まり、Chainerの応用について語るようになりました。
+最近の回では、クラウドベンダーが一同に集まり、Chainerの応用について語るようになりました。
 
 
 ## ハンズオン資料の作成
@@ -72,7 +79,9 @@ Google Colaboratoryを使用して、ブラウザさえあれば、すぐにで�
 
 https://github.com/chainer-community/chainer-colab-notebook
 
-ChainerとChainerRLのハンズオンが現在あります。
+
+
+
 
 # あとがき
 
@@ -85,7 +94,7 @@ PFN得居さんとドワンゴの小田桐さんに
 
 それから約３年半で、Meetup含むを以下の様なイベントを行いました。
 
-名前をChainerチームからchugに変更し、Chainerの開発チームとは別にコミュニティとして、
+名前をChainerチームからChugに変更し、Chainerの開発チームとは別にコミュニティとして、
 運営できるようになりました！
 
 梅澤さん、池内さん、宮城さん、加瀬さん、最上さんには、参加いただきコミュニティを盛り上げていただき
@@ -93,27 +102,27 @@ PFN得居さんとドワンゴの小田桐さんに
 
 続けてて良かったなと思っています！
 
-また、chugに興味のある方はぜひご連絡ください
+また、Chugに興味のある方はぜひご連絡ください
 chainer-jp Slack@<fn>{fn01}に！
 //footnote[fn01][https://chainer-jp.slack.com/]
 
 
 # 著作者
 
-- 梅澤慶介(@kumechan)
+- 梅澤慶介(@kumechan) 担当:まえがき、4章
   - AlpacaJapan株式会社でChainerを使った金融マーケットの予測モデルの研究開発をする傍ら、
 Chainerエバンジェリストとしてコミュニティ活動やイベント活動の運営を行っています。ハンズオンどこでも開催しに行きます！
 
-- 前橋 賢一(@kmaehashi)
+- 前橋 賢一(@kmaehashi) 担当:1章
   - Chainer/CuPyの開発やリリース管理、テスト環境の整備、ユーザサポートなどに携わっています。
   
-- Yasuki Ikeuchi(@ikeyasu)  
+- Yasuki Ikeuchi(@ikeyasu) 担当:2章
   - 株主会社ACCESSのCo-CTO。普段はIoT屋をする傍ら、Chainerで遊んでます。
 
-- 最上隆史(@mogamin)
+- 最上隆史(@mogamin) 担当:3章
    - ウルシステムズ株式会社で「先端技術をビジネスに」をキーワードに研究開発やPoCをしています。画像処理、AR、深層学習、強化学習、ブロックチェーンがメイン。
      社内ではScrumMaster向けの活動やarxiv論文を読む活動も開催中。日々、Chainerを使ってkaggleやSIGNATEで技術を磨いています。
 
-- 舛岡英人(@hidetomasuoka)
-  - 株式会社レトリバで、営業･技術部の部長。Chainer Meetup #0からChainerのイベントのほとんどを企画、運営してます！
+- 舛岡英人(@hidetomasuoka) 担当:5章、あとがき
+  - Chainer Meetup #0からChainerのイベントのほとんどを企画、運営してます！
   Deep Learningをやりたくても、なかなかアクションできていない人は是非お声がけください！
