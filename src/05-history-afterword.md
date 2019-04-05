@@ -109,21 +109,21 @@ chainer-jp Slack@<fn>{fn01}に！
 
 # 著作者
 
-- 梅澤慶介(@kumechan) 担当:まえがき、4章
+- 梅澤 慶介(@kumechan) 担当:まえがき、4章
   - AlpacaJapan株式会社でChainerを使った金融マーケットの予測モデルの研究開発をする傍ら、
 Chainerエバンジェリストとしてコミュニティ活動やイベント活動の運営を行っています。ハンズオンどこでも開催しに行きます！
 
 - 前橋 賢一(@kmaehashi) 担当:1章
   - Chainer/CuPyの開発やリリース管理、テスト環境の整備、ユーザサポートなどに携わっています。
   
-- 最上隆史(@mogamin) 担当:2章
+- 最上 隆史(@mogamin) 担当:2章
   - ウルシステムズ株式会社で「先端技術をビジネスに」をキーワードに研究開発やPoCをしています。画像処理、AR、深層学習、強化学習、ブロックチェーンがメイン。
      社内ではScrumMaster向けの活動やarxiv論文を読む活動も開催中。日々、Chainerを使ってkaggleやSIGNATEで技術を磨いています。
 
-- Yasuki Ikeuchi(@ikeyasu) 担当:3章
+- 池内 康樹(@ikeyasu) 担当:3章
   - 株主会社ACCESSのCo-CTO。普段はIoT屋をする傍ら、Chainerで遊んでます。
 
-- 舛岡英人(@hidetomasuoka) 担当:5章、あとがき
+- 舛岡 英人(@hidetomasuoka) 担当:5章、あとがき
   - Chainer Meetup #0からChainerのイベントのほとんどを企画、運営してます！
   Deep Learningをやりたくても、なかなかアクションできていない人は是非お声がけください！
 
